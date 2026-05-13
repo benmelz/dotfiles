@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+stow --verbose=2 --no-folding --target="${HOME}" */
