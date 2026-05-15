@@ -1,6 +1,7 @@
 clear
 
 export PATH="${HOME}/.local/bin:${PATH}"
+export EDITOR="vim"
 
 if [ -f "${HOME}/.env" ]
 then
